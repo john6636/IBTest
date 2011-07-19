@@ -16,6 +16,7 @@
     IBOutlet UILabel *systemVersion;
     IBOutlet UILabel *batInfo;
     IBOutlet UIButton *RecBtn;
+    UIImage *GitTest;
  //   int Switch;
 }
 -(IBAction)BtnPush:(id)sender;
